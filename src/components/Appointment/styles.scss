@@ -11,6 +11,7 @@ $appointment-height: 11rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    caret-color: transparent;
 
     &-button {
       @include button-inactive--opacity;
