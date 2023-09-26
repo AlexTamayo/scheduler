@@ -5,7 +5,6 @@ import {
         render,
         waitForElement,
         fireEvent,
-        act,
         getByText,
         getAllByTestId,
         getByAltText,
@@ -16,7 +15,7 @@ import {
       } from "@testing-library/react";
 
 describe("Application", () => {
-  
+
   // 1. defaults to Monday and changes the schedule when a new day is selected
   it("defaults to Monday and changes the schedule when a new day is selected", () => {
     const { getByText } = render(<Application />);
