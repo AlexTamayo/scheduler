@@ -4,6 +4,7 @@
 
 ### **`VIDEO`**
 
+https://github.com/AlexTamayo/scheduler/assets/3316856/76ea28b6-73e7-44a8-a7a9-cb27b33968b8
 
 ### **`IMAGES`**
 
