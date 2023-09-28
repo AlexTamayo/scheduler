@@ -7,6 +7,15 @@ The Interview Scheduler is a React-based web application primarily focused on fr
 - **React Development**: Utilizes React for building an interactive and dynamic user interface.
 - **Test-Driven Development (TDD)**: Implements Jest and Cypress for unit testing and end-to-end testing.
 
+## Features
+- Create, edit, and delete interview appointments.
+- Interactive user interface with real-time updates.
+- Comprehensive test coverage using Jest and Cypress.
+
+## Technologies Used
+- React for front-end development
+- Jest and Cypress for testing
+
 ## Media
 
 ### **`VIDEO`**
@@ -25,14 +34,6 @@ https://github.com/AlexTamayo/scheduler/assets/3316856/76ea28b6-73e7-44a8-a7a9-c
 
 ![5](./docs/images/5.png)
 
-## Features
-- Create, edit, and delete interview appointments.
-- Interactive user interface with real-time updates.
-- Comprehensive test coverage using Jest and Cypress.
-
-## Technologies Used
-- React for front-end development
-- Jest and Cypress for testing
 
 ## Setup
 
